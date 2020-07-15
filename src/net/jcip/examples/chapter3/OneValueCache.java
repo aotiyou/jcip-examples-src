@@ -9,6 +9,7 @@ import java.util.Arrays;
  * OneValueCache
  * <p/>
  * Immutable holder for caching a number and its factors
+ * 3-12 对数值及其因数分解结果进行缓存的不可变容器类
  *
  * @author Brian Goetz and Tim Peierls
  */
