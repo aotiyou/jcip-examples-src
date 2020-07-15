@@ -4,6 +4,7 @@ package net.jcip.examples.chapter3;
  * SafeListener
  * <p/>
  * Using a factory method to prevent the this reference from escaping during construction
+ * 3-8 使用工厂方法来防止this引用在构造过程中逸出
  *
  * @author Brian Goetz and Tim Peierls
  */
